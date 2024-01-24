@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki Ÿród³owe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{703b17d1-5a1a-4069-9743-feb8d4008c8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Event system">
+      <UniqueIdentifier>{4bd5ef3d-3d02-41ae-b69c-5498ed49a006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Event system">
+      <UniqueIdentifier>{492e95c8-49a4-4be7-837f-0bc4c1572114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\GUI">
+      <UniqueIdentifier>{d3067f98-1919-441f-b9ab-1e4c2027cde1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\GUI">
+      <UniqueIdentifier>{db0e0b17-4e99-482f-bf60-56c731576a31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Core">
+      <UniqueIdentifier>{12f9d9f3-cb74-4486-b836-ce62aa1f0f38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Core">
+      <UniqueIdentifier>{bdf9b99c-0c2c-4456-8674-002b058f52d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Pch">
+      <UniqueIdentifier>{21d83c98-bf52-4981-acd9-22d30c1f0957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Pch">
+      <UniqueIdentifier>{eb1dcc83-ddb8-410d-b6de-75f920792d8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\State machine">
+      <UniqueIdentifier>{f536d9b8-be59-4288-9791-295349a52cc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\State machine">
+      <UniqueIdentifier>{eef87fea-cd52-4472-aceb-92cf7dc167ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system">
+      <UniqueIdentifier>{17bc4a7f-5b1c-4bfe-8f3a-a9fee04b02c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system">
+      <UniqueIdentifier>{753d5a0e-70d4-4b84-ab1b-30ada168e9a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Lighting">
+      <UniqueIdentifier>{83fedfea-ccd3-423b-97b5-d2cfdd6448ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Lighting">
+      <UniqueIdentifier>{8b541520-4a8a-4bdd-b7e8-9733a2775fc1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Model">
+      <UniqueIdentifier>{649234cc-15aa-4626-abc6-4e8ea474a8ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Model">
+      <UniqueIdentifier>{5a8f9cb8-5998-4d6d-b2bd-be13198a4228}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\OpenGL objects">
+      <UniqueIdentifier>{4040bf3f-f734-43b1-b5cd-e9abf15b1cf3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\OpenGL objects">
+      <UniqueIdentifier>{e0ebcc47-cc97-4790-a1ec-0392917bacc6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Shader">
+      <UniqueIdentifier>{5dbc0d03-cf5f-428a-89f9-daf04dd61fd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Shader">
+      <UniqueIdentifier>{86c76f35-afe2-42d6-92eb-86aebc8cf412}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Text">
+      <UniqueIdentifier>{a90b54b9-272f-4fc6-bd55-6e606cbe7a2c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Text">
+      <UniqueIdentifier>{81a0e11b-5772-4da3-9f7a-fa19cf7f392f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Texture">
+      <UniqueIdentifier>{5562c820-ed35-475e-bc1a-c430b6e5e993}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Texture">
+      <UniqueIdentifier>{33d50a8e-8178-40eb-817b-05020785c4fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\SourceDep">
+      <UniqueIdentifier>{b3409a90-6163-4615-a02d-f3b4bc5732ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Utilities">
+      <UniqueIdentifier>{8e6addbc-60f6-4ab7-acb1-9a81f70e421d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Utilities">
+      <UniqueIdentifier>{8f34a18c-60aa-43d2-a9bd-0eaa568aedb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Window">
+      <UniqueIdentifier>{356d7b81-740f-4a64-b37c-5ac64923bd8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Window">
+      <UniqueIdentifier>{c4ab5381-be1b-40fb-b30e-6c72a08ae3ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Player">
+      <UniqueIdentifier>{b76ebd4d-6e66-4d6d-a77c-3f70c8e11cbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Player">
+      <UniqueIdentifier>{417fa4d3-20d3-423c-b98b-5e6c3990b941}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Entity">
+      <UniqueIdentifier>{fbe1b2fa-293d-48fb-888c-b0c1b3b07d38}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Entity">
+      <UniqueIdentifier>{893bec8c-4cb4-472e-91cd-63fa7bff4e49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Static">
+      <UniqueIdentifier>{c2e15504-6dd3-4229-960c-fc56a1785eda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Static">
+      <UniqueIdentifier>{f100cfe1-7e50-4427-97d6-abce25648b05}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nag³ówkowe\Rendering system\Skybox">
+      <UniqueIdentifier>{121106fd-c766-464d-bf2b-8a1b01103b0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Skybox">
+      <UniqueIdentifier>{3f181aa2-d080-4cbe-8a20-918e98bcea8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki Ÿród³owe\Rendering system\Texture\SourceDep">
+      <UniqueIdentifier>{c3bb708e-82df-4b21-998d-5abaac19f310}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Event system\eventManager.cpp">
+      <Filter>Pliki Ÿród³owe\Event system</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GUI\button.cpp">
+      <Filter>Pliki Ÿród³owe\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PCH\pch.cpp">
+      <Filter>Pliki Ÿród³owe\Pch</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Lighting\attenuation.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Lighting\light.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Lighting\point.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Lighting\spot.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Lighting</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\dataOBJ.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\mesh.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\OpenGL Objects\ebo.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\OpenGL objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\OpenGL Objects\fbo.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\OpenGL objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\OpenGL Objects\vao.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\OpenGL objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\OpenGL Objects\vbo.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\OpenGL objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Shader\shader.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Shader\shaderProgram.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Text\text.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Text\font.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Text</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Texture\texture.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SourceDep\glad.c">
+      <Filter>Pliki Ÿród³owe\Rendering system\Texture\SourceDep</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\resourceManager.cpp">
+      <Filter>Pliki Ÿród³owe\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Utilities\timer.cpp">
+      <Filter>Pliki Ÿród³owe\Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Window\window.cpp">
+      <Filter>Pliki Ÿród³owe\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="src\State machine\stateMachine.cpp">
+      <Filter>Pliki Ÿród³owe\State machine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\State machine\gameOverState.cpp">
+      <Filter>Pliki Ÿród³owe\State machine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\State machine\gameState.cpp">
+      <Filter>Pliki Ÿród³owe\State machine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\State machine\menuState.cpp">
+      <Filter>Pliki Ÿród³owe\State machine</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Core\main.cpp">
+      <Filter>Pliki Ÿród³owe\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Core\application.cpp">
+      <Filter>Pliki Ÿród³owe\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\material.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Player\player.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Entity\entity.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Player\PlayerStats.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Entity\bullet.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\vboIndexer.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\indexedDataOBJ.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GUI\sprite.cpp">
+      <Filter>Pliki Ÿród³owe\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Static\mathf.cpp">
+      <Filter>Pliki Ÿród³owe\Static</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Entity\livingEntity.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Shader\shaderLightProgram.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Skybox\skybox.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Skybox</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Static\debug.cpp">
+      <Filter>Pliki Ÿród³owe\Static</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\transformationOBJ.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Model\gameObject.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Entity\target.cpp">
+      <Filter>Pliki Ÿród³owe\Rendering system\Entity</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Rendering system\Main Level\MainLevel.cpp">
+      <Filter>Pliki Ÿród³owe</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Event system\eventManager.h">
+      <Filter>Pliki nag³ówkowe\Event system</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Event system\keyboard.h">
+      <Filter>Pliki nag³ówkowe\Event system</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Event system\mouse.h">
+      <Filter>Pliki nag³ówkowe\Event system</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Event system\eventType.h">
+      <Filter>Pliki nag³ówkowe\Event system</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GUI\button.h">
+      <Filter>Pliki nag³ówkowe\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="src\PCH\pch.h">
+      <Filter>Pliki nag³ówkowe\Pch</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Lighting\attenuation.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Lighting\light.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Lighting\point.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Lighting\spot.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Lighting</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\dataOBJ.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\mesh.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\objReader.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\OpenGL Objects\vbo.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\OpenGL objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\OpenGL Objects\vao.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\OpenGL objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\OpenGL Objects\fbo.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\OpenGL objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\OpenGL Objects\ebo.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\OpenGL objects</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Shader\shader.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Shader\shaderProgram.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Text\text.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Text\font.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Text</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Texture\texture.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SourceDep\stb_image.h">
+      <Filter>Pliki nag³ówkowe\SourceDep</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\resourceManager.h">
+      <Filter>Pliki nag³ówkowe\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Utilities\timer.h">
+      <Filter>Pliki nag³ówkowe\Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Window\windowMode.h">
+      <Filter>Pliki nag³ówkowe\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Window\window.h">
+      <Filter>Pliki nag³ówkowe\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="src\State machine\menuState.h">
+      <Filter>Pliki nag³ówkowe\State machine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\State machine\programState.h">
+      <Filter>Pliki nag³ówkowe\State machine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\State machine\stateMachine.h">
+      <Filter>Pliki nag³ówkowe\State machine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\State machine\gameAssets.h">
+      <Filter>Pliki nag³ówkowe\State machine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\State machine\gameOverState.h">
+      <Filter>Pliki nag³ówkowe\State machine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\State machine\gameState.h">
+      <Filter>Pliki nag³ówkowe\State machine</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Core\application.h">
+      <Filter>Pliki nag³ówkowe\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Core\config.h">
+      <Filter>Pliki nag³ówkowe\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\material.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Player\player.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Entity\entity.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Player\PlayerStats.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Entity\bullet.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\vboIndexer.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\indexedDataOBJ.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Texture\stb_image.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="src\GUI\sprite.h">
+      <Filter>Pliki nag³ówkowe\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Pliki nag³ówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Static\mathf.h">
+      <Filter>Pliki nag³ówkowe\Static</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Entity\livingEntity.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Shader\shaderLightProgram.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Skybox\skybox.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Skybox</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Static\debug.h">
+      <Filter>Pliki nag³ówkowe\Static</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\transformationOBJ.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Model\gameObject.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Entity\target.h">
+      <Filter>Pliki nag³ówkowe\Rendering system\Entity</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rendering system\Main Level\MainLevel.h">
+      <Filter>Pliki nag³ówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\map.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\map.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="Shaders\text.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\skybox.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\skybox.vert">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\sprite.frag">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="shaders\sprite.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\text.vert">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TargetPractise PWAG proj.rc">
+      <Filter>Pliki zasobów</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Textures\DevLogo.png">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+    <Image Include="res\Icons\DevLogo.ico">
+      <Filter>Pliki zasobów</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
